@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/landing-page---intro-section-flex-grid-m-f-w-r_5VWj-Upx)
+- Live Site URL: [Live site URL here](https://grimm-n.github.io/intro-component-with-signup-form/)
 
 ## My process
 
